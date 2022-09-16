@@ -1,0 +1,2 @@
+# Resume-Classification-NLP
+Due to the high number of applicants and resumes submissions to job postings, manual resumes screening processes become tedious, ineffective and time consuming for talent acquisition professionals. Therefore, standardized automated screening methods are necessary to categorize qualified from unqualified candidates based on their background, education and professional experience faster, with more efficiency and more accurate results to streamline hiring processes.
